@@ -1,0 +1,6 @@
+[submodule "services/app1"]
+	path = services/app1
+	url = https://github.com/WhatTheFar/monorepo-toolkit-git-fixture-basic.git
+[submodule "services/app2"]
+	path = services/app2
+	url = https://github.com/WhatTheFar/monorepo-toolkit-git-fixture-basic.git
